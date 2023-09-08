@@ -1,8 +1,8 @@
-#include <stdio.h>
-/*
+#include<stdio.h>
+/**
  *main - script that print the size of 
  *
- *return 0 for success
+ *return: 0 for success
  */
 int main(void) 
 {
